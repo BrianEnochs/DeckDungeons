@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 013892e44cb18d24eb61b13551f314d2, type: 3}
+  m_Name: Defend
+  m_EditorClassIdentifier: 
+  cardTitle: Defend
+  cardDescription: Block 5.
+  cardCost: 1
+  cardEffect: 5
+  buffAmount: 0
+  cardIcon: {fileID: 21300000, guid: f123809b40a97f54e8c52c2ead5b7d10, type: 3}
+  cardType: 1
+  cardTargetType: 0

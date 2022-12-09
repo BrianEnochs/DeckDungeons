@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ae8cbe08c524cf46a4b8b84b9ea06ee, type: 3}
+  m_Name: BagOfMarbles
+  m_EditorClassIdentifier: 
+  relicName: Bag of Marbles
+  relicDescription: Apply 1 vulnerable to enemies at the start of combat.
+  relicImage: {fileID: 21300000, guid: 23d7e48d9f3e70040b6691bac674eac8, type: 3}
